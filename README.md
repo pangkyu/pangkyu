@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
   <br>
   <a href="https://github.com/pangkyu"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpangkyu&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+  <a href="https://www.instagram.com/seong9__" target="_blank"><img src="https://img.shields.io/badge/Instagram-2E9AFE?style=flat&logo=Instagram&logoColor=E4405F"/></a>
+  <a href="mailto: bae1374@hs.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> </a>
  
 </div>
 
