@@ -3,19 +3,6 @@
 <div align="center">
   
   ### 🐣 SEONG KYU 🐣   
-  
-  ---
-  
-  <a href="https://github.com/pangkyu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pangkyu&show_icons=true&theme=dark&hide_title=true&include_all_commits=true" />
-  </a>
-  <a href="https://velog.io/@pangkyu">
-    <img align="center" src="https://velog-readme-stats.vercel.app/api?name=pangkyu" />
-  </a>
-  
-
-  <br/>
-  <br/>
 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -39,7 +26,18 @@
   <a href="https://velog.io/@pangkyu" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
   <a href="mailto: qo1374@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> </a>
   
+  
+  ---
+  
+  <a href="https://velog.io/@pangkyu">
+    <img align="center" src="https://velog-readme-stats.vercel.app/api?name=pangkyu" />
+  </a>
 
+  <br/>
+
+  <a href="https://github.com/pangkyu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pangkyu&show_icons=true&theme=dark&hide_title=true&include_all_commits=true" />
+  </a>
 
   
  
