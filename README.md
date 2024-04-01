@@ -2,15 +2,19 @@
 
 <div align="center">
   
-
-
   ### 🐣 SEONG KYU 🐣   
-
   
   ---
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pangkyu&theme=dracula&layout=compact&langs_count=10"/>
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pangkyu)](https://velog.io/@pangkyu)
+  <a href="https://velog.io/@pangkyu">
+    <img align="center" src="https://velog-readme-stats.vercel.app/api?name=pangkyu" />
+  </a>
+  <a href="https://github.com/pangkyu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pangkyu&show_icons=true&theme=dark" />
+  </a>
+
+  <br/>
+  <br/>
 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
