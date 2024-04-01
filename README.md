@@ -5,13 +5,14 @@
   ### 🐣 SEONG KYU 🐣   
   
   ---
-
+  
+  <a href="https://github.com/pangkyu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pangkyu&show_icons=true&theme=dark&hide_title=true&include_all_commits=true" />
+  </a>
   <a href="https://velog.io/@pangkyu">
     <img align="center" src="https://velog-readme-stats.vercel.app/api?name=pangkyu" />
   </a>
-  <a href="https://github.com/pangkyu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pangkyu&show_icons=true&theme=dark" />
-  </a>
+  
 
   <br/>
   <br/>
