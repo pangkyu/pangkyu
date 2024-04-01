@@ -4,6 +4,9 @@
   
   ### 🐣 SEONG KYU 🐣   
 
+  <br/>
+  <br/>
+
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>
@@ -25,14 +28,14 @@
   <a href="https://www.instagram.com/seong9__" target="_blank"><img src="https://img.shields.io/badge/Instagram-2E9AFE?style=flat&logo=Instagram&logoColor=E4405F"/></a>
   <a href="https://velog.io/@pangkyu" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
   <a href="mailto: qo1374@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> </a>
-  
-  
-  ---
+
+  <br/>
   
   <a href="https://velog.io/@pangkyu">
     <img align="center" src="https://velog-readme-stats.vercel.app/api?name=pangkyu" />
   </a>
 
+  <br/>
   <br/>
 
   <a href="https://github.com/pangkyu">
