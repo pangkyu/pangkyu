@@ -1,9 +1,10 @@
-
-
 <div align="center">
+
   
   ### 🐣 SEONG KYU 🐣   
 
+
+  
   <br/>
   <br/>
 
@@ -43,7 +44,12 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pangkyu&show_icons=true&theme=dark&hide_title=true&include_all_commits=true" />
   </a>
 
-  
- 
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/pangkyu"
+    width="100%"
+    height="200"
+  />
+</a>
