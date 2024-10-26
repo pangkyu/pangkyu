@@ -1,9 +1,6 @@
 <div align="center">
 
-  
   ### 🐣 SEONG KYU 🐣   
-
-
   
   <br/>
   <br/>
@@ -32,24 +29,19 @@
   <a href="mailto: qo1374@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> </a>
 
   <br/>
-  
+
   <a href="https://velog.io/@pangkyu">
     <img align="center" src="https://velog-readme-stats.vercel.app/api?name=pangkyu" />
   </a>
-
   <br/>
-  <br/>
-
-  <a href="https://github.com/pangkyu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pangkyu&show_icons=true&theme=dark&hide_title=true&include_all_commits=true" />
-  </a>
-
-</div>
-
-<a href="https://github.com/devxb/gitanimals">
+  <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/pangkyu"
     width="100%"
     height="200"
   />
 </a>
+  
+</div>
+
+
